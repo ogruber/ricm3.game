@@ -28,8 +28,8 @@ import java.awt.image.BufferedImage;
  * This is your game view, a canvas where the game is displayed.
  * 
  * It extends the AWT canvas, a widget that is essentially an area of pixels,
- * suited to draw on it. You can draw pixels or shapes such as lines, polygones,
- * or circles. Look for these capabilitis in the class java.awt.Graphics.
+ * suited to draw on it. You can draw pixels or shapes such as lines, polygons,
+ * or circles. Look for these capabilities in the class java.awt.Graphics.
  * You can also draw images and therefore you can do animations.
  * 
  * We extended the AWT canvas to have an efficient double buffering.
